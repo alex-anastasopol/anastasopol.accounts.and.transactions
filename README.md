@@ -10,6 +10,7 @@
   * start web application: ```java -jar anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war```
 
 
+
 <h4> Working with the web application </h4>
 
 Web app will be accessible on port 8090.
@@ -17,7 +18,7 @@ Web app will be accessible on port 8090.
 * open browser and access ```http://localhost:8090/login``` ; this will login with username "ionescu" ; then can access any of the other links listed below
 
 
-<h4>Endpoints:</h4>
+<h5>Endpoints:</h5>
 
 * __/__ -> home (text)
 * __/login__ -> login (text, json content)
@@ -27,7 +28,7 @@ Web app will be accessible on port 8090.
 Responses are in text/plain with JSON-formatted content. Homepage is just plaintext.
 
 
-<h5>TODOs:</h5>
+<h4>TODOs:</h4>
 
 * add more exception handling
 * show total amount in accounts
