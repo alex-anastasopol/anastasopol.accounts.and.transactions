@@ -18,7 +18,7 @@ Endpoints:
 Responses are in text/plain with JSON-formatted content. Homepage is just plaintext.
 
 
-TODOs:
+<h6>TODOs:</h6>
 * add more exception handling
 
 * show total amount in accounts
@@ -26,8 +26,9 @@ TODOs:
 * add tests
 * add ui
 
-<h6>To start the program <h6>
- * starty data provider is running: in docker, run this command: <code>docker run -it --rm -p 8080:8080 mihaitatinta/wiremock-example:0.0.1</code> 
+<h6>To start the program </h6>
+  
+ * start data provider is running: in docker, run this command: <code>docker run -it --rm -p 8080:8080 mihaitatinta/wiremock-example:0.0.1</code> 
   
  * TODO ; run anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war
 
