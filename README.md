@@ -33,7 +33,7 @@ Web app will be accessible on port 8090.
 * __/accounts__ -> accounts of currently logged in user (text, json content)
 * __/transactions__ ->  transactions of currently logged in user(text, json content)
 
-Responses are in text/plain with JSON-formatted content. Homepage is just plaintext.
+Responses content type is text/plain with JSON content. Homepage is just plaintext.
 
 
 
