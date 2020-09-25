@@ -10,15 +10,15 @@
 
 Web app will be accessible on port 8090.
 
-* open browser and access http://localhost:8090/login ; this will login with username "ionescu" ; then can access any of the other links listed below
+* open browser and access ```http://localhost:8090/login``` ; this will login with username "ionescu" ; then can access any of the other links listed below
 
 
 <h6>Endpoints:</h6>
 
-* / -> home (text)
-* /login -> login (text, json content)
-* /accounts -> accounts of currently logged in user (text, json content)
-* /transactions ->  transactions of currently logged in user(text, json content)
+* _/_ -> home (text)
+* _/login_ -> login (text, json content)
+* _/accounts_ -> accounts of currently logged in user (text, json content)
+* _/transactions_ ->  transactions of currently logged in user(text, json content)
 
 Responses are in text/plain with JSON-formatted content. Homepage is just plaintext.
 
