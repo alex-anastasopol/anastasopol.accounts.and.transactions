@@ -15,7 +15,8 @@
 
 Web app will be accessible on port 8090.
 
-* open browser and access ```http://localhost:8090/login``` ; this will login with username "ionescu" ; then can access any of the other links listed below
+* open browser and access ```http://localhost:8090/login``` ; this will login with username "ionescu" 
+* then you can access any of the other links listed below
 
 
 <h5>Endpoints:</h5>
@@ -26,6 +27,7 @@ Web app will be accessible on port 8090.
 * __/transactions__ ->  transactions of currently logged in user(text, json content)
 
 Responses are in text/plain with JSON-formatted content. Homepage is just plaintext.
+
 
 
 <h4>TODOs:</h4>
