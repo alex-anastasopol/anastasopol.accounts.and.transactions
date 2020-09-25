@@ -13,8 +13,8 @@ The following must be installed on your computer:
 
 * Run the following shell commands:
   * start data provider by running this shell command: ```docker run -it --rm -p 8080:8080 mihaitatinta/wiremock-example:0.0.1```
-  * navigate to folder where anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war was downloaded: e.g. cd ```C:\webapps```
-  * start web application: ```java -jar anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war```
+  * navigate to folder where ```anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war``` was downloaded: e.g. cd ```C:\webapps```
+  * start the web application: ```java -jar anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war```
 
 
 
