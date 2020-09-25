@@ -1,6 +1,9 @@
 # anastasopol.accounts.and.transactions
 
 <h5> Steps to start the web application </h5>
+
+[GitHub](http://github.com)
+
 * Download application file: [anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war](https://github.com/alex-anastasopol/anastasopol.accounts.and.transactions/blob/master/release/anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war) 
 
 Run the following shell commands:
