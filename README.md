@@ -15,10 +15,10 @@ Web app will be accessible on port 8090.
 
 <h6>Endpoints:</h6>
 
-* _/_ -> home (text)
-* _/login_ -> login (text, json content)
-* _/accounts_ -> accounts of currently logged in user (text, json content)
-* _/transactions_ ->  transactions of currently logged in user(text, json content)
+* __/__ -> home (text)
+* __/login__ -> login (text, json content)
+* __/accounts__ -> accounts of currently logged in user (text, json content)
+* __/transactions__ ->  transactions of currently logged in user(text, json content)
 
 Responses are in text/plain with JSON-formatted content. Homepage is just plaintext.
 
