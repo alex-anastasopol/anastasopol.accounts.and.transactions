@@ -22,7 +22,7 @@ The following must be installed on your computer:
 
 Web app will be accessible on port 8090.
 
-* open browser and access ```http://localhost:8090/login/username?ionescu``
+* open browser and access ```http://localhost:8090/login/username?ionescu```
 * then you can access any of the other links listed below
 
 
