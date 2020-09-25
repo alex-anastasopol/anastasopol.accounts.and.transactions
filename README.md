@@ -6,20 +6,22 @@
 * run ```java -jar anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war```
 
 
-
 <h5> Working with the web application </h5>
 
 Web app will be accessible on port 8090.
 
 * open browser and access http://localhost:8090/login ; this will login with username "ionescu" ; then can access any of the other links listed below
 
+
 <h6>Endpoints:</h6>
+
 * / -> home (text)
 * /login -> login (text, json content)
 * /accounts -> accounts of currently logged in user (text, json content)
 * /transactions ->  transactions of currently logged in user(text, json content)
 
 Responses are in text/plain with JSON-formatted content. Homepage is just plaintext.
+
 
 <h5>TODOs:</h5>
 
