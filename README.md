@@ -2,13 +2,9 @@
 
 <h4> Steps to start the web application </h4>
 
-<h5>Prerequisites</h5>
-
-The following must be installed on your computer:
-* Java runtime 8 or higher
-* Docker
-
-
+* The following must be installed on your computer:
+*   Java runtime 8 or higher
+*   Docker
 * Download the web application file: [anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war](https://github.com/alex-anastasopol/anastasopol.accounts.and.transactions/blob/master/release/anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war) 
 
 * Run the following shell commands:
