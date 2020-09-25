@@ -38,7 +38,8 @@ Responses are in text/plain with JSON-formatted content. Homepage is just plaint
 
 
 <h4> Images:</h4>
-![Image of homepage]https://github.com/alex-anastasopol/anastasopol.accounts.and.transactions/blob/master/readme_images/homepage.png
+
+![Image of homepage](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "text")
 
 ![Image of login page]https://github.com/alex-anastasopol/anastasopol.accounts.and.transactions/blob/master/readme_images/login.png
 
