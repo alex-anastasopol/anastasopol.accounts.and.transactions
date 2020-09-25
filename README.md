@@ -35,9 +35,10 @@ Web app will be accessible on port 8090.
 
 Responses are in text/plain with JSON-formatted content. Homepage is just plaintext.
 
+
+
 <h4> Images:</h4>
-
-
+TODO 
 
 <h4>TODOs:</h4>
 
@@ -46,3 +47,5 @@ Responses are in text/plain with JSON-formatted content. Homepage is just plaint
 * show transactions count, total spent
 * add tests
 * add ui
+
+
