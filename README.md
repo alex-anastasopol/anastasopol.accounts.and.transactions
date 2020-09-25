@@ -28,6 +28,6 @@ Responses are in text/plain with JSON-formatted content. Homepage is just plaint
 
 <h6>To start the program </h6>
   
- * start data provider is running: in docker, run this command: `docker run -it --rm -p 8080:8080 mihaitatinta/wiremock-example:0.0.1`
- * run `java -jar anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war`
+ * start data provider by running this shell command: ```docker run -it --rm -p 8080:8080 mihaitatinta/wiremock-example:0.0.1```
+ * run ```java -jar anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war```
 
