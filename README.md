@@ -28,6 +28,7 @@ add ui
 
 <h6>To start the program <h6>
   -> starty data provider is running: in docker, run this command: <code>docker run -it --rm -p 8080:8080 mihaitatinta/wiremock-example:0.0.1</code> 
+  
   -> TODO ; run anastasopol.accounts.and.transactions-0.0.1-SNAPSHOT.war
 
 
